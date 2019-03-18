@@ -27,7 +27,6 @@
 }
 
 footer {
-    position: relative;
     margin-top: 5px;
 }
 
@@ -36,7 +35,6 @@ header {
     background: burlywood;
     box-shadow: 3px 3px 1px rgba(0,0,0,.05);
     padding: 15px 0;
-    position: relative;
     margin-bottom: 5px;
 }
 
